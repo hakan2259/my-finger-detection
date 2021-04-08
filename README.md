@@ -35,7 +35,8 @@ Detects signs shown in small square boxes from 1 to 9. It also takes a screensho
 
 for control the small square box;
 
-`move left with 4`
+You can move left 4 right 6 up 8 down 2 keys
+
 ## License
 
                                  Apache License
