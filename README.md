@@ -14,21 +14,20 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
 
 ## Running this project
 1. Install Python 3, Opencv 3, Pillow, Tensorflow, Keras.
-2. First Train the model.
-    ```
-    python cnn_model.py
-    ```
-2. Now to test the model you just need to run recognise.py . To do so just open the terminal and run following command.
-    ```
-    python recognise.py
-    ```
-    Adjust the hsv values from the track bar to segment your hand color.
 
+2. Now to test the model you just need to run test.py . To do so just open the terminal and run following command.
+    ```
+    python test.py
+    ```
 3. To create your own data set.
     ```
     python capture.py
     ```
-
+3. Train the model.
+    ```
+    python cnn_model.py
+    ```
+    
 ## License
 
                                  Apache License
