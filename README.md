@@ -7,6 +7,8 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
 Detects signs shown in small square boxes from 1 to 9. It also takes a screenshot of the camera and sends an e-mail.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/46871570/113956849-e26e7100-9826-11eb-8681-0ec6c8e2af3c.png)
+![data27627670](https://user-images.githubusercontent.com/46871570/113958980-b228d180-982a-11eb-80bc-87b7fe329b4c.png)
+
 
 ## Tools Used
 1. Python 3
