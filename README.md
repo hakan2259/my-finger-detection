@@ -2,13 +2,13 @@
 A simple CNN project for detecting american sign language.
 Here, I have implemented CNN (Convolution Neural Network) using Keras.
 
-### Tools Used
+## Tools Used
 1. Python 3
 2. OpenCV 3
 3. Tensorflow
 4. Keras
 
-### Running this project
+## Running this project
 1. Install Python 3, Opencv 3, Tensorflow, Keras.
 2. First Train the model.
     ```
@@ -25,7 +25,7 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
     python capture.py
     ```
 
-### License
+## License
 
                                  Apache License
                            Version 2.0, January 2004
