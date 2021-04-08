@@ -16,6 +16,7 @@ Detects signs shown in small square boxes from 1 to 9. It also takes a screensho
 5. Keras
 
 ## Running this project
+
 1. Install Python 3, Opencv 3, Pillow, Tensorflow, Keras.
 
 2. Now to test the model you just need to run test.py . To do so just open the terminal and run following command.
@@ -30,7 +31,11 @@ Detects signs shown in small square boxes from 1 to 9. It also takes a screensho
     ```
     python cnn_model.py
     ```
-    
+## Controls
+
+for control the small square box;
+
+`move left with 4`
 ## License
 
                                  Apache License
